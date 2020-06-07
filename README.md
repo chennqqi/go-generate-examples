@@ -3,7 +3,7 @@
 
 | name                 | description                                                               |
 |----------------------|---------------------------------------------------------------------------|
-| [goyacc]()               | Go的Yacc。                                                                  |
+| goyacc               | Go的Yacc。                                                                  |
 | stringer             | 实现fmt.Stringer枚举的接口。                                                     |
 | gostringer           | fmt.GoStringer为枚举实现接口。                                                   |
 | jsonenums            | 枚举的实现json.Marshaler和json.Unmarshaler接口。                                 |
@@ -33,19 +33,6 @@
 | swagger-doc         | 跟自动生成swagger文件并加载swagger服务                                                            |
 
 
-##
-
-`go generate: <app> <args>`
-
-vs
-
-```Go
-$cat gen.go
-//+build ignore
-go generate: go run <gen.go> <args>
-```
-- vfs-gen
-- avo
 
 
 ## references
