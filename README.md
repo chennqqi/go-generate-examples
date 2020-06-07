@@ -33,7 +33,6 @@
 | swagger-doc         | 跟自动生成swagger文件并加载swagger服务                                                            |
 
 
-
 ##
 
 `go generate: <app> <args>`
@@ -44,7 +43,9 @@ vs
 $cat gen.go
 //+build ignore
 go generate: go run <gen.go> <args>
-`
+```
+- vfs-gen
+- avo
 
 
 ## references
