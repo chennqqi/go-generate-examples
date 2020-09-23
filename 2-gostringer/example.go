@@ -1,4 +1,4 @@
-//go:generate jsonenums -type=Pill
+//go:generate gostringer -type=Pill
 package example
 
 type Pill int //type def
