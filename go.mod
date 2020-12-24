@@ -4,8 +4,8 @@ go 1.14
 
 replace (
 	11-vfsgen/assets => ./11-vfsgen/assets
-	28-swagger-doc/docs => ./28-swagger-doc/docs
 	19-thriftrw/echo => ./19-thriftrw/echo
+	28-swagger-doc/docs => ./28-swagger-doc/docs
 )
 
 require (
@@ -28,6 +28,7 @@ require (
 	github.com/go-openapi/swag v0.19.9 // indirect
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/google/wire v0.4.0
+	github.com/mailru/easyjson v0.7.6
 	github.com/mmcloughlin/avo v0.0.0-20200523190732-4439b6b2c061 // indirect
 	github.com/philhofer/fwd v1.0.0 // indirect
 	github.com/searKing/golang/tools/cmd/go-atomicvalue v0.0.0-20200409160254-cf28ba78ef68 // indirect

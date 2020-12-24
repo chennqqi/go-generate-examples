@@ -28,9 +28,10 @@
 | avo                  | 使用Go生成汇编代码                                                                |
 | Wire                 | Go的编译时依赖注入                                                                |
 | sumgen               | 从sum-type声明生成接口方法实现                                                      |
-| interface-extractor | 生成所需类型的接口，仅在包内使用方法。                                                       |
+| interface-extractor | 生成所需类型的接口，仅在包内使用方法。                                                    |
 | deep-copy           | 为给定类型创建深度复制方法。                                                            |
-| swagger-doc         | 跟自动生成swagger文件并加载swagger服务                                                            |
+| swagger-doc         | 自动生成swagger文件并加载swagger服务                                       |         |
+| easyjson            | 生成高性能的JSON序列化和反序列化接口，避免使用系统默认生成的基于反射的接口                  |
 
 
 
