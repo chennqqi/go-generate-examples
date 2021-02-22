@@ -32,6 +32,7 @@
 | deep-copy           | 为给定类型创建深度复制方法。                                                            |
 | swagger-doc         | 自动生成swagger文件并加载swagger服务                                       |         |
 | easyjson            | 生成高性能的JSON序列化和反序列化接口，避免使用系统默认生成的基于反射的接口                  |
+| ifacepropagate      | 生成已有结构/类型/接口导出的wrapper来为已有接口提供附加功能                  |
 
 
 
