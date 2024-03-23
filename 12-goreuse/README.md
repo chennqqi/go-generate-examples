@@ -3,8 +3,8 @@
 [doc](https://godoc.org/github.com/dc0d/goreuse)
 
 ```Go
-go get -u -v github.com/dc0d/goreuse
-go get -u -v sourcegraph.com/sqs/goreturns
+go install -u -v github.com/dc0d/goreuse@latest
+go install -u -v sourcegraph.com/sqs/goreturns@latest
 go generate
 go build
 ```

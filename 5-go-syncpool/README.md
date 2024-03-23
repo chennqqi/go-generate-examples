@@ -3,7 +3,7 @@
 [doc](https://godoc.org/github.com/searKing/golang/tools/cmd/go-syncpool)
 
 ```Go
-go get github.com/searKing/golang/tools/cmd/go-syncpool
+go install github.com/searKing/golang/tools/cmd/go-syncpool@latest
 go generate
 go build
 ```

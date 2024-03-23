@@ -3,7 +3,7 @@
 [doc](https://github.com/mmcloughlin/avo)
 
 ```Go
-go get -u github.com/mmcloughlin/avo
+go install -u github.com/mmcloughlin/avo@latest
 go generate
 go test
 ```

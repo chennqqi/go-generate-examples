@@ -3,7 +3,7 @@
 [doc](https://github.com/tinylib/msgp)
 
 ```Go
-go get github.com/tinylib/msgp
+go install github.com/tinylib/msgp@latest
 go generate
 go build
 ```

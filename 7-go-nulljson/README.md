@@ -3,7 +3,7 @@
 [doc](https://godoc.org/github.com/searKing/golang/tools/cmd/go-nulljson)
 
 ```Go
-go get github.com/searKing/golang/tools/cmd/go-nulljson
+go install github.com/searKing/golang/tools/cmd/go-nulljson@latest
 go generate
 go build
 ```

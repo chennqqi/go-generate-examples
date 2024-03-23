@@ -3,7 +3,7 @@
 [doc](https://godoc.org/github.com/searKing/golang/tools/cmd/go-import)
 
 ```Go
-go get github.com/searKing/golang/tools/cmd/go-import
+go install github.com/searKing/golang/tools/cmd/go-import@latest
 go generate
 go build
 ```

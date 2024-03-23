@@ -14,7 +14,7 @@ Use title of a schema to set the Go struct of field name
 ```
 
 ```Go
-go get -u  github.com/actgardner/gogen-avro/v7/cmd/gogen-avro
+go install -u  github.com/actgardner/gogen-avro/v7/cmd/gogen-avro@latest
 go generate
 go build
 ```

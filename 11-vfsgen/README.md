@@ -4,7 +4,7 @@
 
 
 ```Go
-go get -github.com/shurcooL/vfsgen/cmd/vfsgendev
+go install -github.com/shurcooL/vfsgen/cmd/vfsgendev@latest
 go generate
 go build
 ```

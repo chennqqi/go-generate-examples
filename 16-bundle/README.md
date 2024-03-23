@@ -3,7 +3,7 @@
 [doc](https://golang.org/x/tools/cmd/bundle)
 
 ```Go
-go get golang.org/x/tools/cmd/bundle
+go install golang.org/x/tools/cmd/bundle@latest
 go generate
 go build
 ```

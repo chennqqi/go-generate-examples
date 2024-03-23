@@ -3,7 +3,7 @@
 interface-extractor may have bugs
 
 ```Go
-go get github.com/urandom/interface-extractor
+go install github.com/urandom/interface-extractor@latest
 go generate
 go build
 ```

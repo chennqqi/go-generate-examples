@@ -3,7 +3,7 @@
 [doc](https://github.com/globusdigital/deep-copy)
 
 ```Go
-go get github.com/globusdigital/deep-copy
+go install github.com/globusdigital/deep-copy@latest
 go generate
 go build
 ```

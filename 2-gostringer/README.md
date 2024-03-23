@@ -3,7 +3,7 @@
 [doc](https://godoc.org/github.com/sourcegraph/gostringer)
 
 ```Go
-go get github.com/sourcegraph/gostringer
+go install github.com/sourcegraph/gostringer@latest
 go generate
 go build
 ```

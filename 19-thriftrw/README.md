@@ -3,7 +3,7 @@
 [doc](https://github.com/thriftrw/thriftrw-go)
 
 ```Go
-go get -u go.uber.org/thriftrw
+go install -u go.uber.org/thriftrw@latest
 go generate
 go build
 ```

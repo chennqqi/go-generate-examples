@@ -3,7 +3,7 @@
 Can Only generate specific definition
 
 ```Go
-go get github.com/dnephin/swagger-gen-types
+go install github.com/dnephin/swagger-gen-types
 go generate
 go build
 ```

@@ -3,7 +3,7 @@
 [doc](https://godoc.org/github.com/searKing/golang/tools/cmd/go-atomicvalue)
 
 ```Go
-go get github.com/searKing/golang/tools/cmd/go-atomicvalue
+go install github.com/searKing/golang/tools/cmd/go-atomicvalue@latest
 go generate
 go build
 ```

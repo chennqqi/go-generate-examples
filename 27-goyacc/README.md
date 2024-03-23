@@ -3,7 +3,7 @@
 [doc](https://godoc.org/golang.org/x/tools/cmd/goyacc)
 
 ```Go
-go get golang.org/x/tools/cmd/goyacc
+go install golang.org/x/tools/cmd/goyacc@latest
 go generate
 go build
 ```

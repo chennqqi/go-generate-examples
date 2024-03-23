@@ -7,7 +7,7 @@ or use yum/apt install ragel
 
 
 ```Go
-go get github.com/searKing/golang/tools/cmd/go-syncpool
+go install github.com/searKing/golang/tools/cmd/go-syncpool@latest
 go generate
 go build
 ```

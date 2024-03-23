@@ -2,7 +2,7 @@
 
 
 ```Go
-go get 4d63.com/embedfiles
+go install 4d63.com/embedfiles@latest
 go generate
 go build
 ```

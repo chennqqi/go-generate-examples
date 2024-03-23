@@ -3,7 +3,7 @@
 [doc](https://github.com/ChimeraCoder/gojson)
 
 ```Go
-go get github.com/ChimeraCoder/gojson/gojson
+go install github.com/ChimeraCoder/gojson/gojson
 go generate
 go build
 ```

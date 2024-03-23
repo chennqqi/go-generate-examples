@@ -3,7 +3,7 @@
 [doc](https://godoc.org/github.com/searKing/golang/tools/cmd/go-syncmap)
 
 ```Go
-go get github.com/searKing/golang/tools/cmd/go-syncmap
+go install github.com/searKing/golang/tools/cmd/go-syncmap@latest
 go generate
 go build
 ```

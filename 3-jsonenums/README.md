@@ -3,7 +3,7 @@
 [doc](https://github.com/campoy/jsonenums)
 
 ```Go
-go get github.com/campoy/jsonenums
+go install github.com/campoy/jsonenums@latest
 go generate
 go build
 ```

@@ -3,7 +3,7 @@
 [doc](https://godoc.org/golang.org/x/tools/cmd/stringer)
 
 ```Go
-go get golang.org/x/tools/cmd/stringer
+go install golang.org/x/tools/cmd/stringer@latest
 go generate
 go build
 ```

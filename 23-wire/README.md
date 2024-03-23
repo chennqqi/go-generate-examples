@@ -4,7 +4,7 @@
 [doc](https://github.com/google/wire/blob/master/_tutorial/README.md)
 
 ```Go
-go get github.com/google/wire/cmd/wire
+go install github.com/google/wire/cmd/wire@latest
 go generate
 go build
 ```
