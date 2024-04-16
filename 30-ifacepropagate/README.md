@@ -1,4 +1,4 @@
-# easyjson example
+# ifacepropagate example
 
 [doc](https://github.com/euank/ifacepropagate)
 

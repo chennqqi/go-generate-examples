@@ -18,3 +18,4 @@ gokeep.go
 goimport.go
 *.output
 /27-goyacc/y.go
+/30-enumer/memberstate_enumer.go
